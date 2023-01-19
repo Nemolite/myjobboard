@@ -25,7 +25,6 @@ urlrewrite.php
 .top.menu.php
 404.php
 favicon.ico
-index.php
 sect_bottom.php
 sect_sidebar.php
 storage.php
